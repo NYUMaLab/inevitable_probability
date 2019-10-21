@@ -1,4 +1,7 @@
-# Inevitable Probability
+# Inevitable Probability (archival copy)
+
+This is a Ma lab copy of the original GitHub repository and code base, kept here for archival purposes. Please go to https://github.com/eminorhan/inevitable-probability for possible updates.
+
 This repository contains the code and data used to obtain the results reported in the following paper:
 
 Orhan AE, Ma WJ (2017) [Efficient probabilistic inference in generic neural networks trained with non-probabilistic feedback.](https://www.nature.com/articles/s41467-017-00181-8) *Nature Communications*, **8**, 138.
